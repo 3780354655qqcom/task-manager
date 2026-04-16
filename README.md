@@ -4,9 +4,9 @@ Help students and office workers keep track of their to-do tasks.
 
 ## Graphical Abstract
 
+![Graphical Abstract](graphical_abstract.png)  
 
-* User interface – add, complete, delete tasks – data persistence with JSON*
-
+*Figure: User interface – add, complete, delete tasks – data persistence with JSON
 ## Purpose of the Software
 
 **Software Development Process Applied:** Agile (Scrum with 2 sprints)  
